@@ -49,3 +49,14 @@
     font-family: 'Noto Sans TC', sans-serif;
     font-weight: 400;
 }
+.card-img-top {
+    height: 250px;
+    width: 200px;
+}
+.project-cards {
+    margin-top: 150px;
+}
+#titler {
+    font-family: 'Squada One', cursive;
+    
+}
