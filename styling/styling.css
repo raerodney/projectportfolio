@@ -1,0 +1,19 @@
+*
+.heda {
+    background-color: black;
+    height: 180px;
+
+}
+.nav-links {
+    float: right;
+    margin-top: -150px;
+}
+#links li {
+    display: inline;
+    text-decoration: none;
+    font-family: 'Sigmar One', cursive;
+}
+#links {
+    text-decoration: none;
+    word-spacing: 10px;
+}
