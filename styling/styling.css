@@ -1,19 +1,51 @@
 *
 .heda {
     background-color: black;
-    height: 180px;
+    height: 145px;
 
+}
+#logo{
+    margin-top: -20px;
 }
 .nav-links {
     float: right;
-    margin-top: -150px;
+    margin-top: -130px;
 }
 #links li {
     display: inline;
-    text-decoration: none;
+    text-decoration:none;
+    color: red;
     font-family: 'Sigmar One', cursive;
+    font-size: 24px;
 }
 #links {
     text-decoration: none;
     word-spacing: 10px;
+}
+#links li :hover {
+    background-color: red;
+    color:black;
+    padding: 4px;
+    border-radius: 6px;
+    transition:1s;
+    text-decoration: none;
+}
+
+#about {
+    padding: 30px;
+}
+#bottom-gallery {
+    margin-right: -180px;
+    margin-top: 400px;
+}
+#about-gallery {
+    margin-right: -280px;
+    margin-top: 20px;
+}
+.about-heading {
+    font-family: 'Squada One', cursive;
+}
+.about-graph {
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: 400;
 }
