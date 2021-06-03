@@ -60,3 +60,34 @@
     font-family: 'Squada One', cursive;
     
 }
+.card {
+    border-radius: 17px;
+    
+}
+#carding {
+    border-radius: 10px;
+    
+}
+#carding :hover {
+    background-color: black;
+    color: white;
+    transition: 0.6s ease-in-out ;
+}
+#myPlaylists {
+    width: 100%;
+    
+}
+#myPlaylists h2 {
+    align-content: center;
+    padding: 50px;
+    color: red;
+    font-family: 'Sigmar One', cursive;
+    margin-right: -180px;
+}
+.play_heda {
+    background-color: black;
+    float: inline-end;
+}
+.footer {
+    background-color: black;
+}
