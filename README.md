@@ -1,3 +1,3 @@
 
-! (./Rodney.png)
+! (./assets/Rodney.png)
 # Portfolio Project
