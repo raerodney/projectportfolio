@@ -91,6 +91,31 @@
 .footer {
     background-color: black;
 }
+.icons li :hover{
+    background-color: rgb(155, 13, 13);
+    padding: 14px;
+    border-radius: 7px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 1.2s;
+}
 .icons {
-    display: block;
+    margin-top: 20px;
+}
+#inputEmail {
+    margin: 10px;
+}
+#inputHeda {
+    font-family:'Squada One', cursive; 
+    color: red;
+    opacity: 5px;
+}
+#input {
+    margin-right: -50px;
+}
+.icons li {
+    font-family:'Squada One', cursive ;
+}
+#about_cont {
+    width: 100%;
 }
