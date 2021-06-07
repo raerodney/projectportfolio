@@ -13,5 +13,5 @@
 2. [LinkedIn](https://www.linkedin.com/in/rodney-kinyua-13a471187/?lipi=urn%3Ali%3Apage%3Aprofile_view_index_index%3BlIcZcrQcS8i8JWjCiuVtrA%3D%3D)
 3. [Github](https://github.com/raerodney)
 
-![facebook](fa-facebook.svg)
+
 
